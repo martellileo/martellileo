@@ -14,19 +14,20 @@
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxrbHp1NXpmZmxsZmNudHk4cDdrenNwcnNzZnJ6YzB3dTVyN3hydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEdTZrXFRE8pnjdl8m/giphy.gif">
   <div align="left">
 
-![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
 ![C](https://img.shields.io/badge/C-7A4190?style=for-the-badge&logo=c&logoColor=FFF)
+![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
+![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
 ![HTML](https://img.shields.io/badge/HTML-7A4190?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS-7A4190?style=for-the-badge&logo=css3&logoColor=FFF)
-![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
+
 </div>
 
 ### plataformas:
  <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-7A4190?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-7A4190?style=for-the-badge&logo=Linux%20Mint&logoColor=FFF)
+[![GitHub](https://img.shields.io/badge/GitHub-7A4190?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![Discord](https://img.shields.io/badge/Discord-7A4190?style=for-the-badge&logo=discord&logoColor=FFF)
 </div>
 
