@@ -1,21 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+space!;I'm+23+years+old+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+space!;glad+ur+here)
 
-<div align="center"> 
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lzimtelli&show_icons=true&count_private=true&hide_border=true&title_color=7A4190&icon_color=7A4190&text_color=c9d1d9&bg_color=0d1117" alt="Leo Martelli github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzimtelli&layout=compact&hide_border=true&title_color=7A4190&text_color=7A4190&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzimtelli&layout=compact&hide_border=true&title_color=7A4190&text_color=be9b88&bg_color=0d1117" />
 
-# Tecnologias
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
+</div>
+
+### linguagens e plataformas:
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxrbHp1NXpmZmxsZmNudHk4cDdrenNwcnNzZnJ6YzB3dTVyN3hydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEdTZrXFRE8pnjdl8m/giphy.gif">
   <div align="left">
-    <div>
-      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c">
-      <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
-      <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
-      <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
-      <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
-    </div>
-    <hr height="1">
-  </div>
+
+![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
+![C](https://img.shields.io/badge/C-7A4190?style=for-the-badge&logo=c&logoColor=FFF)
+[![GitHub](https://img.shields.io/badge/GitHub-7A4190?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+![HTML](https://img.shields.io/badge/HTML-7A4190?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS-7A4190?style=for-the-badge&logo=css3&logoColor=FFF)
+![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
+![Windows 11](https://img.shields.io/badge/Windows%2011-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-7A4190?style=for-the-badge&logo=Linux%20Mint&logoColor=FFF)
+![Discord](https://img.shields.io/badge/Discord-7A4190?style=for-the-badge&logo=discord&logoColor=FFF)
+</div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzimtelli&bg_color=0d1117&color=7A4190&line=7A4190&point=7A4190&area=true&hide_border=true)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=footer"/>
