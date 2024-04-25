@@ -15,11 +15,11 @@ enjoying coding since 15 and loving technology since 8 :D
 
 #### linguagens:
 <div align="left">
-- C
-- Java
-- Python
-- HTML
-- CSS
+- C <br>
+- Java <br>
+- Python <br>
+- HTML <br>
+- CSS <br>
 - [trying Lua]
 
 </div>
