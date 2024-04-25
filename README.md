@@ -21,6 +21,13 @@ enjoying coding since 15 and loving technology since 8 :D
 ![HTML](https://img.shields.io/badge/HTML-7A4190?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS-7A4190?style=for-the-badge&logo=css3&logoColor=FFF)
 
+- C
+- Java
+- Python
+- HTML
+- CSS
+- [trying Lua]
+
 </div>
 
 ### plataformas:
