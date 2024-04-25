@@ -5,7 +5,7 @@
 
 <div align="left">
 
-hi! my name is leo and im a 19 yo computer science student!
+hi! my name is leo and im a 19 yo computer science student! <br>
 enjoying coding since 15 and loving technology since 8 :D
 
 </div>
