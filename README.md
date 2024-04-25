@@ -28,14 +28,14 @@
 
   - Win 10 (main os)
   - Ubuntu
-  - Vs Code
+  - Visual Studio Code
   - NetBeans
 
 </div>
 
 #### where you can find me:
 <div>
-  
+  [ayo](ayo.so/mtell)
   
   
 </div>
