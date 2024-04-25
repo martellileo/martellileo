@@ -33,12 +33,9 @@
 
 </div>
 
-
-ayo.so/mtell
-
 #### where you can find me:
 <div>
-  ayo.so/mtell
+  [ayo](https://ayo.so/mtell)
   
   
 </div>
