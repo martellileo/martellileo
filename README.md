@@ -35,4 +35,4 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzimtelli&bg_color=0d1117&color=7A4190&line=7A4190&point=7A4190&area=true&hide_border=true)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=footer"/>
+### <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=footer"/>
