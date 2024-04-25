@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+place!;glad+ur+here) 
 
+[link](https://ayo.so/mtell)
+
 <br>
 
 <div align="center">
@@ -35,7 +37,7 @@
 
 #### where you can find me:
 <div>
-  [ayo](https://ayo.so/mtell)
+  
   
   
 </div>
