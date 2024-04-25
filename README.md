@@ -5,8 +5,7 @@
 
 <div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lzimtelli&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=7A4190&title_color=7A4190&text_color=c9d1d9"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzimtelli&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&icon_color=7A4190&title_color=7A4190&text_color=c9d1d9"/> 
+  asdawds 
 
 </div>
   
@@ -25,7 +24,7 @@
 ### plataformas:
  <div align="left">
    
-![Windows 11](https://img.shields.io/badge/Windows%2010-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
+![Windows 10](https://img.shields.io/badge/Windows%2010-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-7A4190?style=for-the-badge&logo=Linux%20Mint&logoColor=FFF)
 [![GitHub](https://img.shields.io/badge/GitHub-7A4190?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![Discord](https://img.shields.io/badge/Discord-7A4190?style=for-the-badge&logo=discord&logoColor=FFF)
@@ -35,4 +34,4 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzimtelli&bg_color=0d1117&color=7A4190&line=7A4190&point=7A4190&area=true&hide_border=true)
 
 
-### <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A4190&height=120&section=footer"/>
