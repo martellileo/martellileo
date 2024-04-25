@@ -39,7 +39,7 @@
 <div>
   
   ayo.so: [mtell](https://ayo.so/mtell) <br>
-  LinkedIn: [martelli.leo](https://br.linkedin.com/in/martelli.leo)
+  LinkedIn: [martelli.leo](https://br.linkedin.com/in/martelli-leo)
   
 </div>
 
