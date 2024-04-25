@@ -11,7 +11,6 @@
 <div align="left">
   enjoying coding since 14 and loving technology since 8 :D <br>
   playing some games (valorant, phasmophobia and some more) <br>
-  one of my favorite things is music <br>
   
 </div>
 
