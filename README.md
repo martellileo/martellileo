@@ -35,7 +35,7 @@
 
 #### where you can find me:
 <div>
-  ([ayo.so/mtell])
+  ayo.so/mtell
   
   
 </div>
