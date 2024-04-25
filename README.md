@@ -38,7 +38,8 @@
 #### where you can find me:
 <div>
   
-  [link](https://ayo.so/mtell)
+  ayo.so: [mtell](https://ayo.so/mtell) <br>
+  LinkedIn: [martelli.leo](https://br.linkedin.com/in/martelli.leo)
   
 </div>
 
