@@ -4,8 +4,9 @@
 
 <div align="center">
 
-hi! my name is leo and im a 19 yo computer science student! <br>
-enjoying coding since 15 and loving technology since 8 :D
+  hi! my name is leo and im a 19 yo computer science student! 
+  <br>
+  enjoying coding since 15 and loving technology since 8 :D
 
 </div>
   
@@ -13,21 +14,29 @@ enjoying coding since 15 and loving technology since 8 :D
 #### linguagens:
 <div align="left">
 
-- C
-- Java
-- Python
-- PHP
-- SQL
-- [trying to learn Lua]
+  - C
+  - Java
+  - Python
+  - PHP
+  - SQL
+  - [trying to learn Lua]
 
 </div>
 
-### what i use to code:
+#### what i use to code:
 <div align="left">
 
-- Win 10 (main os)
-- Ubuntu
-- Vs Code
-- NetBeans
+  - Win 10 (main os)
+  - Ubuntu
+  - Vs Code
+  - NetBeans
 
 </div>
+
+#### where you can find me:
+<div>
+  
+  
+  
+</div>
+
