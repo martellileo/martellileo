@@ -1,19 +1,18 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+place!;glad+ur+here) 
-
-[link](https://ayo.so/mtell)
-
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+place!;glad+ur+here) <br>
 
 <div align="center">
 
-  hi! my name is leo and im a 19 yo computer science student! 
-  <br>
-  enjoying coding since 15 and loving technology since 8 :D
+  hi! my name is leo and im a 19 yo computer science student! <br>
+  pt-br & en
 
 </div>
-  
 
-#### linguagens:
+#### about me:
+<div align="left">
+  enjoying coding since 14 and loving technology since 8 :D <br>
+</div>
+
+#### languages:
 <div align="left">
 
   - C
