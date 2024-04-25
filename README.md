@@ -13,8 +13,7 @@ enjoying coding since 15 and loving technology since 8 :D
 </div>
   
 ### linguagens:
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxrbHp1NXpmZmxsZmNudHk4cDdrenNwcnNzZnJ6YzB3dTVyN3hydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEdTZrXFRE8pnjdl8m/giphy.gif">
-  <div align="left">
+<div align="left">
 
 ![C](https://img.shields.io/badge/C-7A4190?style=for-the-badge&logo=c&logoColor=FFF)
 ![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
