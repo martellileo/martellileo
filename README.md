@@ -3,9 +3,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+place!;glad+ur+here) 
 
-<div align="center">
+<div align="left">
 
-  asdawds 
+hi! my name is leo and im a 19 yo computer science student!
+enjoying coding since 15 and loving technology since 8 :D
 
 </div>
   
@@ -14,8 +15,8 @@
   <div align="left">
 
 ![C](https://img.shields.io/badge/C-7A4190?style=for-the-badge&logo=c&logoColor=FFF)
-![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
 ![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
+![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
 ![HTML](https://img.shields.io/badge/HTML-7A4190?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS-7A4190?style=for-the-badge&logo=css3&logoColor=FFF)
 
