@@ -12,14 +12,8 @@ enjoying coding since 15 and loving technology since 8 :D
 
 </div>
   
-### linguagens:
+#### linguagens:
 <div align="left">
-
-![C](https://img.shields.io/badge/C-7A4190?style=for-the-badge&logo=c&logoColor=FFF)
-![Java](https://img.shields.io/badge/java-7A4190?style=for-the-badge&logo=openjdk&logoColor=FFF)
-![Python](https://img.shields.io/badge/Python-7A4190?style=for-the-badge&logo=python&logoColor=FFF)
-![HTML](https://img.shields.io/badge/HTML-7A4190?style=for-the-badge&logo=html5&logoColor=FFF)
-![CSS](https://img.shields.io/badge/CSS-7A4190?style=for-the-badge&logo=css3&logoColor=FFF)
 
 - C
 - Java
