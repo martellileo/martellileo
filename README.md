@@ -10,6 +10,9 @@
 #### about me:
 <div align="left">
   enjoying coding since 14 and loving technology since 8 :D <br>
+  playing some games (valorant, phasmophobia and some more) <br>
+  one of my favorite things is music <br>
+  
 </div>
 
 #### languages:
@@ -35,7 +38,7 @@
 </div>
 
 #### where you can find me:
-<div>
+<div>    
   
   ayo.so: [mtell](https://ayo.so/mtell) <br>
   LinkedIn: [martelli.leo](https://br.linkedin.com/in/martelli-leo)
