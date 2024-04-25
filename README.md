@@ -25,7 +25,7 @@
 ### plataformas:
  <div align="left">
    
-![Windows 11](https://img.shields.io/badge/Windows%2011-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
+![Windows 11](https://img.shields.io/badge/Windows%2010-7A4190?style=for-the-badge&logo=Windows%2011&logoColor=FFF)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-7A4190?style=for-the-badge&logo=Linux%20Mint&logoColor=FFF)
 [![GitHub](https://img.shields.io/badge/GitHub-7A4190?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![Discord](https://img.shields.io/badge/Discord-7A4190?style=for-the-badge&logo=discord&logoColor=FFF)
