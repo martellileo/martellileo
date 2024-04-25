@@ -35,7 +35,7 @@
 
 #### where you can find me:
 <div>
-  [Obsidian Help](https://help.obsidian.md)
+  ([ayo.so/mtell])
   
   
 </div>
