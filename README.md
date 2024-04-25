@@ -12,8 +12,9 @@ enjoying coding since 15 and loving technology since 8 :D
 
 </div>
   
-<div align="left">
+
 #### linguagens:
+<div align="left">
 - C
 - Java
 - Python
