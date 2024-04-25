@@ -3,6 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A4190&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+place!;glad+ur+here) 
 
+<br>
+
 <div align="left">
 
 hi! my name is leo and im a 19 yo computer science student! <br>
