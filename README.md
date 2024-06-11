@@ -10,7 +10,7 @@
 #### about me:
 <div align="left">
   enjoying coding since 14 and loving technology since 8 :D <br>
-  playing some games (valorant, phasmophobia and some more) <br>
+  playing valorant, phasmophobia and some more <br>
   
 </div>
 
@@ -22,17 +22,22 @@
   - Python
   - PHP
   - SQL
-  - [trying to learn Lua]
 
 </div>
 
-#### what i use to code:
+#### config:
 <div align="left">
 
-  - Win 10 (main os)
-  - Ubuntu
-  - Visual Studio Code
-  - NetBeans
+  - ryzen 5 5600g
+  - b450m
+  - 32 gb
+  - gtx 1650
+  - win 10(main os), ubuntu
+
+#### peripherals:
+  - attack shark x3
+  - e-yooso z11(akko matcha green lubed)
+  - kz edx pro
 
 </div>
 
