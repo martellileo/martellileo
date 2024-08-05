@@ -22,6 +22,7 @@
   - Python
   - PHP
   - SQL
+  - JS
 
 </div>
 
