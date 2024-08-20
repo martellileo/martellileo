@@ -5,7 +5,7 @@
     hi
     <br>
     <br>
-    Sobre mim me: <br>
+    Sobre mim: <br>
     - pt-br & en <br>
     - Bacharelado em Ciências da Computação 3/8 <br>
     <br>
