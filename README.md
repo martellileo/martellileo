@@ -17,7 +17,7 @@
     > notebook: revios10 & mint cinnamon <br>
     <br>
     procurando estágio em:<br>
-    > Analista de Banco de Dados <br>
+    > Segurança de Dados <br>
     > Engenheiro de Software <br>
     <br>
     você pode me encontrar em: <br>
