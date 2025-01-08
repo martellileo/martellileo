@@ -7,7 +7,7 @@
     <br>
     sobre mim: <br>
     > pt-br & en <br>
-    > Bacharelado em Ciências da Computação - IFSP 4/8 <br>
+    > Bacharelado em Ciências da Computação - IFSP <br>
     <br>
     linguagens && frameworks:<br>
     - c, java, python, postgresql, js, html, bash, assembly <br>
