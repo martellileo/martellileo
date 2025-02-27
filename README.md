@@ -6,7 +6,7 @@
     <br>
     <br>
     sobre mim: <br>
-    > pt-br & en <br>
+    > pt-br (native) & en (C1)<br>
     > Bacharelado em Ciências da Computação - IFSP <br>
     <br>
     conhecimentos:<br>
