@@ -9,12 +9,14 @@
     > pt-br & en <br>
     > Bacharelado em Ciências da Computação - IFSP <br>
     <br>
-    linguagens && frameworks:<br>
-    - c, java, python, postgresql, js, html, bash, assembly <br>
+    conhecimentos:<br>
+    - c, java, python, js, react, html, php <br>
+    - git <br>
+    - bash, assembly <br>
+    - postgresql, sql <br>
     <br>
     os:<br>
-    > setup: win10 <br>
-    > notebook: revios10 & mint cinnamon <br>
+    > win 11 && ubuntu 24.04.2 <br>
     <br>
     procurando estágio em:<br>
     > Segurança de Dados <br>
