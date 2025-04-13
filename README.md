@@ -10,13 +10,13 @@
     > Bacharelado em Ciências da Computação - IFSP <br>
     <br>
     conhecimentos:<br>
-    - c, java, python, js, react, html, php <br>
+    - c, java, python, javascript, react, html, php <br>
     - git <br>
     - bash, assembly <br>
     - postgresql, sql <br>
     <br>
     os:<br>
-    > win 11 && ubuntu 24.04.2 <br>
+    > win 11 && nixOS <br>
     <br>
     procurando estágio em:<br>
     > Segurança de Dados <br>
