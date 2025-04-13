@@ -8,6 +8,7 @@
     sobre mim: <br>
     > pt-br (native) & en (C1)<br>
     > Bacharelado em Ciências da Computação - IFSP <br>
+    >  apaixonado por tecnologia, programação e e-sports <br>
     <br>
     conhecimentos:<br>
     - c, java, python, javascript, react, html, php <br>
@@ -19,9 +20,9 @@
     > win 11 && nixOS <br>
     <br>
     procurando estágio em:<br>
-    > Segurança de Dados <br>
     > Engenheiro de Software <br>
-    > Desenvolvedor de Software <Br>
+    > Desenvolvedor de Software <br>
+    > Cyber Segurança <br>
     <br>
     você pode me encontrar em: <br>
     > <a href="https://www.linkedin.com/in/martelli-leo"> linkedin </a> <br>
