@@ -21,7 +21,7 @@
     procurando estágio em:<br>
     > Segurança de Dados <br>
     > Engenheiro de Software <br>
-    > Desenvolvedor <Br>
+    > Desenvolvedor de Software <Br>
     <br>
     você pode me encontrar em: <br>
     > <a href="https://www.linkedin.com/in/martelli-leo"> linkedin </a> <br>
