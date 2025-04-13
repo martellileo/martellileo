@@ -8,16 +8,18 @@
     sobre mim: <br>
     > pt-br (native) & en (C1)<br>
     > Bacharelado em Ciências da Computação - IFSP <br>
-    >  apaixonado por tecnologia, programação e e-sports <br>
+    >  apaixonado por tecnologia, programação e eSports <br>
     <br>
     conhecimentos:<br>
     - c, java, python, javascript, react, html, php <br>
     - git <br>
+    - frameworks && APIs
     - bash, assembly <br>
     - postgresql, sql <br>
+    - scrum, uml, pmbok, etc <br>
     <br>
     os:<br>
-    > win 11 && nixOS <br>
+    > windows 11 && linux nixOS <br>
     <br>
     procurando estágio em:<br>
     > Engenheiro de Software <br>
