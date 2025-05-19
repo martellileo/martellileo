@@ -16,10 +16,9 @@
     - frameworks && APIs
     - bash, assembly <br>
     - postgresql, sql <br>
-    - scrum, uml, pmbok, etc <br>
     <br>
     os:<br>
-    > windows 11 && linux nixOS <br>
+    > windows 11<br>
     <br>
     procurando estágio em:<br>
     > Engenheiro de Software <br>
