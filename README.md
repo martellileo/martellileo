@@ -12,10 +12,10 @@
     <br>
     conhecimentos:<br>
     - c, java, python, javascript, react, html, php <br>
-    - git <br>
-    - frameworks && APIs
-    - bash, assembly <br>
-    - postgresql, sql <br>
+    - git && github <br>
+    - frameworks && APIs <br>
+    - bash && assembly <br>
+    - postgresql && sql <br>
     <br>
     os:<br>
     > windows 11<br>
