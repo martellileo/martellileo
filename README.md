@@ -15,10 +15,10 @@
     - git && github <br>
     - frameworks && APIs <br>
     - bash && assembly <br>
-    - postgresql && sql <br>
+    - postgresql && mysql <br>
     <br>
     os:<br>
-    > windows 11<br>
+    > windows 11 && ubuntu <br>
     <br>
     procurando estágio em:<br>
     > Engenheiro de Software <br>
