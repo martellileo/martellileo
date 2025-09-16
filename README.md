@@ -1,5 +1,5 @@
 <p float="left">
-<img src="https://github.com/martellileo/martellileo/blob/main/imgsrc/9.jpg" width="240" align="right">
+<!-- <img src="https://github.com/martellileo/martellileo/blob/main/imgsrc/9.jpg" width="240" align="right"> -->
   <p float = "left">
   <samp>
     !
@@ -8,17 +8,18 @@
     sobre mim: <br>
     > pt-br (native) & en (C1)<br>
     > Bacharelado em Ciências da Computação - IFSP <br>
-    >  apaixonado por tecnologia, programação e eSports <br>
+    > apaixonado por tecnologia, programação e eSports <br>
     <br>
     conhecimentos:<br>
-    - c, java, python, javascript, react, html, php <br>
-    - git && github <br>
-    - frameworks && APIs <br>
-    - bash && assembly <br>
+    - c, java, python, html, php <br>
     - postgresql && mysql <br>
+    - frameworks && APIs <br>
+    <br>
+    dev ops:<br>
+    - git && github <br>
     <br>
     os:<br>
-    > windows 11 && ubuntu <br>
+    > fedora 42 <br>
     <br>
     procurando estágio em:<br>
     > Engenheiro de Software <br>
