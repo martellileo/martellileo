@@ -5,10 +5,9 @@
     !
     <br>
     <br>
-    sobre mim: <br>
+    sobre mim // about me: <br>
     > pt-br (native) & en (C1)<br>
     > Bacharelado em Ciências da Computação - IFSP <br>
-    > apaixonado por tecnologia, programação e eSports <br>
     <br>
     conhecimentos:<br>
     - c, java, python, html, php <br>
@@ -19,14 +18,13 @@
     - git && github <br>
     <br>
     os:<br>
-    > fedora 42 <br>
+    > win 10 / ubuntu 24.04 <br>
     <br>
     procurando estágio em:<br>
-    > Engenheiro de Software <br>
-    > Desenvolvedor de Software <br>
-    > Cyber Segurança <br>
+    > Desenvolvedor de Software // Software Developer<br>
+    > Cyber Segurança // Cyber Security<br>
     <br>
-    você pode me encontrar em: <br>
+    você pode me encontrar em // you can find me in: <br>
     > <a href="https://www.linkedin.com/in/martelli-leo"> linkedin </a> <br>
     > <a href="https://www.instagram.com/leomartelli_/"> instagram </a> <br>
   </samp>
