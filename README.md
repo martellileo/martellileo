@@ -21,6 +21,7 @@
     > win 10 / ubuntu 24.04 <br>
     <br>
     procurando estágio em:<br>
+    > Analista de Dados // Data Analyst <br>
     > Desenvolvedor de Software // Software Developer<br>
     > Cyber Segurança // Cyber Security<br>
     <br>
