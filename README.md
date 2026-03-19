@@ -10,7 +10,7 @@
     > Bacharelado em Ciências da Computação - IFSP <br>
     <br>
     conhecimentos:<br>
-    - c, java, python, html, php <br>
+    - python, typescript, javascript, java, c, react, html, php <br>
     - postgresql && mysql <br>
     - frameworks && APIs <br>
     <br>
@@ -22,8 +22,8 @@
     <br>
     procurando estágio em:<br>
     > Analista de Dados // Data Analyst <br>
+    > Inteligência Artificial // AI
     > Desenvolvedor de Software // Software Developer<br>
-    > Cyber Segurança // Cyber Security<br>
     <br>
     você pode me encontrar em // you can find me in: <br>
     > <a href="https://www.linkedin.com/in/martelli-leo"> linkedin </a> <br>
