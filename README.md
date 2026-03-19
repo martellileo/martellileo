@@ -22,7 +22,7 @@
     <br>
     procurando estágio em:<br>
     > Analista de Dados // Data Analyst <br>
-    > Inteligência Artificial // AI
+    > Inteligência Artificial // AI <br>
     > Desenvolvedor de Software // Software Developer<br>
     <br>
     você pode me encontrar em // you can find me in: <br>
