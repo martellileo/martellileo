@@ -1,18 +1,14 @@
-<img src="https://github.com/martellileo/martellileo/blob/main/imgsrc/header.jpg" width="100%" alt="nao ta na pasta ainda">
+<img src="https://github.com/martellileo/martellileo/blob/main/imgsrc/header.png" width="100%" alt="nao ta na pasta ainda">
 
 ---
 
 <p align="left">
   <samp>
-    <strong>Computer Science student & Tech Enthusiast.</strong><br>
-    Deeply interested in the fields of Data, Artificial Intelligence, and Software Development.<br>
-    Committed to lifelong learning and driving innovation.
-    <br><br>
     !
     <br><br>
     sobre mim // about me:<br>
     > pt-br (native) & en (C1)<br>
-    > Bacharelado em Ciências da Computação - IFSP <br>
+    > Bacharelado em Ciência da Computação - IFSP <br>
     <br>
     conhecimentos // skills:<br>
     - python, typescript, javascript, angular, java, c, react, html, php <br>
