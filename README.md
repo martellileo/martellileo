@@ -28,6 +28,5 @@
     <br>
     você pode me encontrar em // you can find me at: <br>
     > <a href="https://www.linkedin.com/in/martelli-leo"> linkedin </a> <br>
-    > <a href="https://www.instagram.com/leomartelli_/"> instagram </a> <br>
   </samp>
 </p>
